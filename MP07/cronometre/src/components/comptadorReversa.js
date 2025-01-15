@@ -25,6 +25,6 @@ return (
     <button onClick={() => setActiu(true)}>Iniciar</button>
     <button onClick={() => setActiu(false)}>Aturar</button>
   </div>
-);
+);}
 
 export default ComptadorReversa;
